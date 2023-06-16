@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div>
+<div style="position: relative;">
 <img src="images/white.png" alt="White Background" width="500">
 <img src="images/matplotlib.svg" alt="Matplotlib" width="100" style="position: absolute; top: 50; left: 50;">
 <img src="images/Pandas_logo.png" alt="Matplotlib" width="100">
