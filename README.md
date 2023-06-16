@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div>
-<img src="images/matplotlib.svg" alt="Matplotlib" width="100">
-<img src="images/Pandas_logo.png" alt="Matplotlib" width="100">
-<img src="images/numpy.png" alt="Matplotlib" width="100">
-<img src="images/scikit learn.png" alt="scikit learn" width="100">
-<img src="images/seaborn.png" alt="seaborn" width="100">
+<img src="images/matplotlib.svg" alt="Matplotlib" width="100" style="background-color: white;">
+<img src="images/Pandas_logo.png" alt="Matplotlib" width="100" style="background-color: white;">
+<img src="images/numpy.png" alt="Matplotlib" width="100" style="background-color: white;">
+<img src="images/scikit learn.png" alt="scikit learn" width="100" style="background-color: white;">
+<img src="images/seaborn.png" alt="seaborn" width="100" style="background-color: white;">
 </div>
