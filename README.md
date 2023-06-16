@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
 <img src="images/white.png" alt="White Background" width="500">
-<img src="images/matplotlib.svg" alt="Matplotlib" width="100" style="position: absolute; top: 50px; left: 50px;">
+<img src="images/matplotlib.svg" alt="Matplotlib" width="100" style="position: absolute; top: 50; left: 50;">
 <img src="images/Pandas_logo.png" alt="Matplotlib" width="100">
 <img src="images/numpy.png" alt="Matplotlib" width="100">
 <img src="images/scikit learn.png" alt="scikit learn" width="100" >
