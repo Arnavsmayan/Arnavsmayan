@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 
 <div>
 <img src="images/matplotlib.svg" alt="Matplotlib" width="100">
-<img src="images/seaborn.png" alt="Seaborn Logo" width="100">
+<img src="images/Pandas_logo.png" alt="Matplotlib" width="100">
+<img src="images/numpy.png" alt="Matplotlib" width="100">
+<img src="images/scikit learn.png" alt="scikit learn" width="100">
+<img src="images/seaborn.png" alt="seaborn" width="100">
 </div>
