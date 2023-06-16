@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Matplotlib](images/matplotlib_logo.png")
+![Matplotlib](images/matplotlib_logo.png)
 <img src="images/seaborn.png" alt="Seaborn Logo" width="100">
