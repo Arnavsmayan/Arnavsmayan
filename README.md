@@ -1,4 +1,4 @@
-<center>### Hi there 👋,I am Arnav </center>
+<center><h1>Hi there👋, I am Arnav </h1></center>
 
 <!--
 **Arnavsmayan/Arnavsmayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
