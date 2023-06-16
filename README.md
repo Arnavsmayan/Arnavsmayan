@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Languages and Tools:</h3>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <img src="images/matplotlib_logo.png" alt="Matplotlib Logo" width="100">
 <img src="images/seaborn.png" alt="Seaborn Logo" width="100">
