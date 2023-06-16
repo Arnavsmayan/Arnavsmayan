@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<html>
+<head></head>
+<body>
 <h3 align="left">Languages and Tools:</h3>
 
 ![C/C++](https://img.shields.io/badge/C/C++-F05032?style=for-the-badge&logo=C&logoColor=black&color=F0DB4F&textColor=white)
@@ -23,25 +25,11 @@ Here are some ideas to get you started:
 
 <div style="position: relative;">
   <img src="images/white.png" alt="White Background" height="50" width="500">
-  <figure style="position: absolute; top: 0; left: 50px;">
-    <img src="images/matplotlib.svg" alt="Matplotlib" width="100">
-    <figcaption>Matplotlib</figcaption>
-  </figure>
-  <figure style="position: absolute; top: 0; left: 150px;">
-    <img src="images/Pandas_logo.png" alt="Pandas" width="100">
-    <figcaption>Pandas</figcaption>
-  </figure>
-  <figure style="position: absolute; top: 0; left: 250px;">
-    <img src="images/numpy.png" alt="NumPy" width="100">
-    <figcaption>NumPy</figcaption>
-  </figure>
-  <figure style="position: absolute; top: 0; left: 350px;">
-    <img src="images/scikit learn.png" alt="scikit-learn" width="100">
-    <figcaption>scikit-learn</figcaption>
-  </figure>
-  <figure style="position: absolute; top: 0; left: 450px;">
-    <img src="images/seaborn.png" alt="seaborn" width="100">
-    <figcaption>seaborn</figcaption>
-  </figure>
+  <img src="images/matplotlib.svg" alt="Matplotlib" width="100" style="position: absolute; top: 0; left: 50px;">
+  <img src="images/Pandas_logo.png" alt="Pandas" width="100" style="position: absolute; top: 0; left: 150px;">
+  <img src="images/numpy.png" alt="NumPy" width="100" style="position: absolute; top: 0; left: 250px;">
+  <img src="images/scikit learn.png" alt="scikit-learn" width="100" style="position: absolute; top: 0; left: 350px;">
+  <img src="images/seaborn.png" alt="seaborn" width="100" style="position: absolute; top: 0; left: 450px;">
 </div>
-
+</body>
+</html>
