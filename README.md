@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-![Matplotlib](images/matplotlib_logo.png)
+<div>
+<img src="images/matplotlib_logo.png" alt="Matplotlib" width="100">
 <img src="images/seaborn.png" alt="Seaborn Logo" width="100">
+</div>
