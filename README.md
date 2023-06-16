@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="images/matplotlib_logo.png" alt="Matplotlib Logo" width="100">
+<img src="images/seaborn.png" alt="Seaborn Logo" width="100">
