@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div >
+<h3 align="left">Python Libraries:</h3>
+<div>
   <img src="py.jpg" height="50" width="750">
 </div>
 
