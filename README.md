@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-F05032?style=for-the-badge&logo=C&logoColor=black&color=F0DB4F&textColor=white)
 ![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white&color=blue)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="images/matplotlib_logo.png" alt="Matplotlib Logo" width="100">
+
+![Matplotlib](images/matplotlib_logo.png")
 <img src="images/seaborn.png" alt="Seaborn Logo" width="100">
