@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Languages and Tools:</h3>
-![Matplotlib](images/matplotlib_logo.png)
+<img src="images/matplotlib_logo.png" alt="Matplotlib Logo" width="100">
