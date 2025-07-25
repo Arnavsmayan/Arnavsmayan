@@ -1,4 +1,4 @@
-# <div align="center">**Hi, I'm Arnav Jain**</div>
+# <div align="center">**Hi, I'm Arnav!**</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Enthusiast+%26+Problem+Solver;Building+intelligent+solutions;AWS+AI%2FML+Scholar+2024" alt="Typing SVG" />
@@ -149,12 +149,6 @@ Looking for opportunities in machine learning engineering, data science, and AI 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-jain-6b20e04/)
 
 **"Engineering intelligent solutions, one commit at a time"**
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="400" alt="Coding Love"/>
-</div>
 
 ---
 
