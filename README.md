@@ -113,7 +113,7 @@ When not building models, you'll find me exploring the latest AI research papers
 *Working on data security and cryptographic implementations*
 
 **Machine Learning Intern** - Thapar University (Jul 2024 - Dec 2024)  
-*Developed and deployed machine learning solutions for academic research projects*
+*Developed machine learning and deep learning solutions for academic projects*
 
 ## Let's Connect
 
