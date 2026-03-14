@@ -13,13 +13,13 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 - **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Present)* <br>
   Developing RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
 
-- **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)*
+- **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)* <br>
   Evaluated 30+ ciphers against IS/ISO/IEC 18033 standards; delivered national cryptography policy recommendations benchmarked against NIST, CRYPTREC, ENISA
 
-- **Summer Research Intern — IIT Ropar** *(Jun–Jul 2025)*
+- **Summer Research Intern — IIT Ropar** *(Jun–Jul 2025)* <br>
   Ensemble deep learning for Indian Classical Raga classification; 93.68% accuracy, novel "Ma Intensity" spectral metric
 
-- **Undergraduate Researcher — Thapar Institute** *(Mar–Aug 2024)*
+- **Undergraduate Researcher — Thapar Institute** *(Mar–Aug 2024)* <br>
   AFS-MHMD: multimodal hateful meme detection combining vision models + transformer text encoders; published IMVIP 2025
 
 ---
@@ -48,7 +48,7 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 
 ## 📫 Connect
 
-- Email: **arnavjainaj17@gmail.com**
+- Email: **mailto:arnavjainaj17@gmail.com**
 - LinkedIn: [Arnav Jain](https://www.linkedin.com/in/arnav-jain-6b20e04/)
 - Kaggle: [Grandmaster Profile](https://www.kaggle.com/)
 
