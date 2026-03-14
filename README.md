@@ -50,6 +50,6 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 
 - Email: [arnavjainaj17@gmail.com](mailto:arnavjainaj17@gmail.com)
 - LinkedIn: [Arnav Jain](https://www.linkedin.com/in/arnav-jain-6b20e04/)
-- Kaggle: [Grandmaster Profile](https://www.kaggle.com/)
+- Kaggle: [Grandmaster Profile](https://www.kaggle.com/smayanj)
 
 **Open to Summer 2027 data science and machine learning internships.**
