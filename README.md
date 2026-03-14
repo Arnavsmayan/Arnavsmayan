@@ -2,7 +2,7 @@
 
 🎓 Incoming MS Data Science @ Columbia University (Fall 2026) &nbsp;·&nbsp; 🏆 Kaggle Grandmaster &nbsp;·&nbsp; 📄 5 peer-reviewed publications
 
-I build machine learning systems that evaluate how models behave in real environments. My work spans LLM pipelines, RAG evaluation, multimodal deep learning, and audio ML — with a focus on how models can be measured, compared, and improved.
+I build machine learning systems that evaluate how models behave in real environments. My work spans LLM pipelines, RAG evaluation, multimodal deep learning, and audio ML with a focus on how models can be measured, compared, and improved.
 
 Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines, and enterprise LLM benchmarking.
 
@@ -48,8 +48,8 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 
 ## 📫 Connect
 
-- Email: **mailto:arnavjainaj17@gmail.com**
+- Email: [arnavjainaj17@gmail.com](mailto:arnavjainaj17@gmail.com)
 - LinkedIn: [Arnav Jain](https://www.linkedin.com/in/arnav-jain-6b20e04/)
 - Kaggle: [Grandmaster Profile](https://www.kaggle.com/)
 
-Open to Summer 2027 data science and machine learning internships.
+**Open to Summer 2027 data science and machine learning internships.**
