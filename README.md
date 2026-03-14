@@ -10,8 +10,7 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 
 ## 💼 Experience
 
-- **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Present)*
-  
+- **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Present)* <br>
   Developing RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
 
 - **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)*
