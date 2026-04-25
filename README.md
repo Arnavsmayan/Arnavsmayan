@@ -11,7 +11,7 @@ Currently exploring: Data Science, Agentic AI evaluation frameworks, RAG assessm
 
 ## 💼 Experience
 
-- **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Jul 2026)*  
+- **Data Science Intern — Eli Lilly and Company** *(Jan 2026 – Jul 2026)*  
   Developed RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
 
 - **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)*  
@@ -53,4 +53,4 @@ Currently exploring: Data Science, Agentic AI evaluation frameworks, RAG assessm
 - LinkedIn: https://www.linkedin.com/in/imarnav/  
 - Kaggle: https://www.kaggle.com/smayanj  
 
-**Open to Summer 2027 data science and machine learning internships.**
+**Open to Summer 2027 data science internships.**
