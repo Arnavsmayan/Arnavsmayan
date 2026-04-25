@@ -1,25 +1,26 @@
 # Hi, I'm Arnav Jain
 
-🎓 Incoming MS Data Science @ Columbia University (Fall 2026) &nbsp;·&nbsp; 🏆 Kaggle Grandmaster &nbsp;·&nbsp; 📄 5 peer-reviewed publications
+🎓 MS Data Science @ Columbia University &nbsp;·&nbsp; 🏆 Kaggle Grandmaster &nbsp;·&nbsp; 📄 5 peer-reviewed publications  
+💼 Data Science Intern @ Eli Lilly and Company
 
 I build machine learning systems that evaluate how models behave in real environments. My work spans LLM pipelines, RAG evaluation, multimodal deep learning, and audio ML with a focus on how models can be measured, compared, and improved.
 
-Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines, and enterprise LLM benchmarking.
+Currently exploring: Data Science, Agentic AI evaluation frameworks, RAG assessment pipelines, and enterprise LLM benchmarking.
 
 ---
 
 ## 💼 Experience
 
-- **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Present)* <br>
-  Developing RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
+- **Agentic AI Intern — Eli Lilly and Company** *(Jan 2026 – Jul 2026)*  
+  Developed RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
 
-- **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)* <br>
+- **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)*  
   Evaluated 30+ ciphers against IS/ISO/IEC 18033 standards; delivered national cryptography policy recommendations benchmarked against NIST, CRYPTREC, ENISA
 
-- **Summer Research Intern — IIT Ropar** *(Jun–Jul 2025)* <br>
+- **Summer Research Intern — IIT Ropar** *(Jun–Jul 2025)*  
   Ensemble deep learning for Indian Classical Raga classification; 93.68% accuracy, novel "Ma Intensity" spectral metric
 
-- **Undergraduate Researcher — Thapar Institute** *(Mar–Aug 2024)* <br>
+- **Undergraduate Researcher — Thapar Institute** *(Mar–Aug 2024)*  
   AFS-MHMD: multimodal hateful meme detection combining vision models + transformer text encoders; published IMVIP 2025
 
 ---
@@ -48,8 +49,8 @@ Currently exploring: Agentic AI evaluation frameworks, RAG assessment pipelines,
 
 ## 📫 Connect
 
-- Email: [arnavjainaj17@gmail.com](mailto:arnavjainaj17@gmail.com)
-- LinkedIn: [Arnav Jain](https://www.linkedin.com/in/arnav-jain-6b20e04/)
-- Kaggle: [Grandmaster Profile](https://www.kaggle.com/smayanj)
+- Email: aj3491@columbia.edu  
+- LinkedIn: https://www.linkedin.com/in/imarnav/  
+- Kaggle: https://www.kaggle.com/smayanj  
 
 **Open to Summer 2027 data science and machine learning internships.**
