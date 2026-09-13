@@ -1,56 +1,56 @@
 # Hi, I'm Arnav Jain
 
-🎓 MS Data Science @ Columbia University &nbsp;·&nbsp; 🏆 Kaggle Grandmaster &nbsp;·&nbsp; 📄 5 peer-reviewed publications  
-💼 Data Science Intern @ Eli Lilly and Company
+🎓 MS Data Science @ Columbia University  ·  🏆 Kaggle Grandmaster
+💼 Ex Data Science Intern @ Eli Lilly and Company
 
-I build machine learning systems that evaluate how models behave in real environments. My work spans LLM pipelines, RAG evaluation, multimodal deep learning, and audio ML with a focus on how models can be measured, compared, and improved.
+I build machine learning systems for evaluating, benchmarking, and improving model performance in real world settings. My work spans LLM evaluation, RAG, multimodal deep learning, computer vision, audio ML, and time series forecasting.
 
-Currently exploring: Data Science, Agentic AI evaluation frameworks, RAG assessment pipelines, and enterprise LLM benchmarking.
+Currently exploring: Data Science, Agentic AI evaluation, RAG assessment, enterprise LLM benchmarking, and applied machine learning.
 
 ---
 
 ## 💼 Experience
 
-- **Data Science Intern — Eli Lilly and Company** *(Jan 2026 – Jul 2026)*  
-  Developed RAG evaluation and agentic AI benchmarking frameworks for enterprise LLM systems
+* **Data Science Intern — Eli Lilly and Company** *(Jan 2026 – Jul 2026)*
+  Built agentic AI evaluation and automated web QA systems for enterprise LLM applications, reducing LLM audit time from 2–3 hours to under 10 minutes and QA cycles from 3–4 days to under 1.5 hours.
 
-- **Research Intern — Bureau of Indian Standards** *(Mar–Aug 2025)*  
-  Evaluated 30+ ciphers against IS/ISO/IEC 18033 standards; delivered national cryptography policy recommendations benchmarked against NIST, CRYPTREC, ENISA
+* **Data Analyst Research Intern — Bureau of Indian Standards, Govt. of India** *(Mar 2025 – Sep 2025)*
+  Benchmarked 30+ symmetric key ciphers across performance, security, and compliance dimensions against IS/ISO/IEC 18033, NIST, CRYPTREC, and ENISA standards.
 
-- **Summer Research Intern — IIT Ropar** *(Jun–Jul 2025)*  
-  Ensemble deep learning for Indian Classical Raga classification; 93.68% accuracy, novel "Ma Intensity" spectral metric
+* **Machine Learning Research Intern — IIT Ropar** *(Jun 2025 – Jul 2025)*
+  Developed an ensemble deep learning system for Indian Classical Raga classification, achieving 93.68% accuracy and introducing a novel "Ma Intensity" spectral metric.
 
-- **Undergraduate Researcher — Thapar Institute** *(Mar–Aug 2024)*  
-  AFS-MHMD: multimodal hateful meme detection combining vision models + transformer text encoders; published IMVIP 2025
+* **Undergraduate Researcher — Thapar Institute of Engineering and Technology** *(Mar 2024 – Aug 2024)*
+  Developed AFS-MHMD, a multimodal hateful meme detection framework combining vision encoders and transformer based text models.
 
 ---
 
 ## 📄 Publications
 
-| Paper | Venue | Year |
-|---|---|---|
-| [Thermal Signatures in Breast Cancer: Deep Learning + Explainable AI](https://www.sciencedirect.com/science/article/abs/pii/S0306456526000598) | Journal of Thermal Biology — Elsevier Q1 (IF: 3.22) | 2026 |
-| [AFS-MHMD: Adaptive Fusion for Multimodal Hateful Meme Detection](https://pure.ulster.ac.uk/files/227817636/FinalProceedings_v1.1.pdf#page=149) | IMVIP 2025, Ireland | 2025 |
-| [Video Super-Resolution with Latent Diffusion Models](https://ieeexplore.ieee.org/document/11256411/) | IEEE InC4 2025 | 2025 |
-| [Evaluating Transformer Architectures for Semantic Similarity](https://ieeexplore.ieee.org/abstract/document/11256279) | IEEE InC4 2025 | 2025 |
-| [NMT Model Evaluation: English-French (TOPSIS Framework)](https://ieeexplore.ieee.org/abstract/document/11256193) | IEEE InC4 2025 | 2025 |
+| Paper                                                                                                                                                                                                         | Venue                                                               | Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| [Thermal Signatures in Breast Cancer: Deciphering Latent Biomarkers through Deep Learning and Explainable AI](https://doi.org/10.1016/j.jtherbio.2026.104426)                                                 | *Journal of Thermal Biology, Elsevier*                              | 2026 |
+| [Focusing Heart Health of Old Age People Through Experimental Analysis Using Explainable AI for Personalized Assistive System](https://doi.org/10.1016/j.procs.2026.06.345)                                   | *Procedia Computer Science*                                         | 2026 |
+| [DELTA: Deep Ensemble Learning for Temporal Analysis](https://www.researchgate.net/publication/404632584_DELTA_-Deep_Ensemble_Learning_for_Temporal_Analysis)                                                 | *Thapar International Conference for Student Research (TICSR 2026)* | 2026 |
+| [AFS-MHMD: Adaptive Fusion Strategies for Multi-modal Hateful Meme Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uMoAu2QAAAAJ&citation_for_view=uMoAu2QAAAAJ:d1gkVwhDpl0C) | *Irish Machine Vision and Image Processing Conference (IMVIP 2025)* | 2025 |
+| [A Systematic Framework for Evaluating Transformer Architectures in Semantic Sentence Similarity](https://doi.org/10.1109/InC465408.2025.11256279)                                                            | *IEEE InC4 2025*                                                    | 2025 |
 
 ---
 
 ## 🛠 Skills
 
-**Languages & Core:** Python · SQL · C++  
-**ML / DL:** PyTorch · TensorFlow · Keras · Scikit-Learn · Hugging Face  
-**LLMs & Agents:** LangChain · LlamaIndex · RAG · Prompt Engineering · Agentic AI  
-**Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau  
-**Tools:** Git · Jupyter · Streamlit · Flask · VS Code
+**Languages & Core:** Python · SQL · C++
+**ML / DL:** PyTorch · TensorFlow · Keras · Scikit-Learn · Computer Vision · NLP · Time Series
+**LLMs & Agents:** LangChain · LlamaIndex · Hugging Face · RAG · Agentic AI · LLM Evaluation
+**Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau
+**Tools:** Git · Jupyter · Streamlit · FastAPI · OpenCV · VS Code
 
 ---
 
 ## 📫 Connect
 
-- Email: aj3491@columbia.edu  
-- LinkedIn: https://www.linkedin.com/in/imarnav/  
-- Kaggle: https://www.kaggle.com/smayanj  
+* Email: [aj3491@columbia.edu](mailto:aj3491@columbia.edu)
+* LinkedIn: https://www.linkedin.com/in/imarnav/
+* Kaggle: https://www.kaggle.com/smayanj
 
-**Open to Summer 2027 data science internships.**
+**Open to Summer 2027 Data Science internships.**
