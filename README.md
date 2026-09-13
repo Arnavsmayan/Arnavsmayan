@@ -1,7 +1,6 @@
 # Hi, I'm Arnav Jain
 
-🎓 MS Data Science @ Columbia University  ·  🏆 Kaggle Grandmaster
-💼 Ex Data Science Intern @ Eli Lilly and Company
+🎓 MS Data Science @ Columbia University  ·  🏆 Kaggle Grandmaster  ·  💼 Ex Data Science Intern @ Eli Lilly and Company
 
 I build machine learning systems for evaluating, benchmarking, and improving model performance in real world settings. My work spans LLM evaluation, RAG, multimodal deep learning, computer vision, audio ML, and time series forecasting.
 
