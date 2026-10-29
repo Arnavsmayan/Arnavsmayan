@@ -50,6 +50,3 @@ Currently exploring: Data Science, Agentic AI evaluation, RAG assessment, enterp
 
 * Email: [aj3491@columbia.edu](mailto:aj3491@columbia.edu)
 * LinkedIn: https://www.linkedin.com/in/imarnav/
-* Kaggle: https://www.kaggle.com/smayanj
-
-**Open to Summer 2027 Data Science internships.**
