@@ -43,10 +43,3 @@ Currently exploring: Data Science, Agentic AI evaluation, RAG assessment, enterp
 **LLMs & Agents:** LangChain · LlamaIndex · Hugging Face · RAG · Agentic AI · LLM Evaluation
 **Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau
 **Tools:** Git · Jupyter · Streamlit · FastAPI · OpenCV · VS Code
-
----
-
-## 📫 Connect
-
-* Email: [aj3491@columbia.edu](mailto:aj3491@columbia.edu)
-* LinkedIn: https://www.linkedin.com/in/imarnav/
