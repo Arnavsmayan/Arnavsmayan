@@ -2,7 +2,7 @@
 
 🎓 MS Data Science @ Columbia University  ·  🏆 Kaggle Grandmaster  ·  💼 Ex Data Science Intern @ Eli Lilly and Company
 
-I build machine learning systems for evaluating, benchmarking, and improving model performance in real world settings. My work spans LLM evaluation, RAG, multimodal deep learning, computer vision, audio ML, and time series forecasting.
+I build machine learning systems for evaluating, benchmarking, and improving model performance in real world settings, with a growing interest in quantitative modeling. My work spans LLM evaluation, RAG, multimodal deep learning, computer vision, audio ML, and time series forecasting.
 
 Currently exploring: Data Science, Agentic AI evaluation, RAG assessment, enterprise LLM benchmarking, applied machine learning, and quantitative research with financial time series.
 
