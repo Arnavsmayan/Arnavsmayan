@@ -33,13 +33,3 @@ Currently exploring: Data Science, Agentic AI evaluation, RAG assessment, enterp
 | [DELTA: Deep Ensemble Learning for Temporal Analysis](https://www.researchgate.net/publication/404632584_DELTA_-Deep_Ensemble_Learning_for_Temporal_Analysis)                                                 | *Thapar International Conference for Student Research (TICSR 2026)* | 2026 |
 | [AFS-MHMD: Adaptive Fusion Strategies for Multi-modal Hateful Meme Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uMoAu2QAAAAJ&citation_for_view=uMoAu2QAAAAJ:d1gkVwhDpl0C) | *Irish Machine Vision and Image Processing Conference (IMVIP 2025)* | 2025 |
 | [A Systematic Framework for Evaluating Transformer Architectures in Semantic Sentence Similarity](https://doi.org/10.1109/InC465408.2025.11256279)                                                            | *IEEE InC4 2025*                                                    | 2025 |
-
----
-
-## 🛠 Skills
-
-**Languages & Core:** Python · SQL · C++
-**ML / DL:** PyTorch · TensorFlow · Keras · Scikit-Learn · Computer Vision · NLP · Time Series
-**LLMs & Agents:** LangChain · LlamaIndex · Hugging Face · RAG · Agentic AI · LLM Evaluation
-**Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau
-**Tools:** Git · Jupyter · Streamlit · FastAPI · OpenCV · VS Code
